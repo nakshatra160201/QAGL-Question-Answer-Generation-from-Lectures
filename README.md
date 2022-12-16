@@ -7,6 +7,9 @@
 ![screenshot](https://github.com/nakshatra160201/QAGL-Question-Answer-Generation-from-Lectures-/blob/main/video_upload.png)
 ![screenshot](https://github.com/nakshatra160201/QAGL-Question-Answer-Generation-from-Lectures-/blob/main/task_submission.png)
 ![screenshot](https://github.com/nakshatra160201/QAGL-Question-Answer-Generation-from-Lectures-/blob/main/summary_qna.png)
+![screenshot](https://github.com/nakshatra160201/QAGL-Question-Answer-Generation-from-Lectures-/blob/main/op1.jpg)
+![screenshot](https://github.com/nakshatra160201/QAGL-Question-Answer-Generation-from-Lectures-/blob/main/op2.jpg)
+![screenshot](https://github.com/nakshatra160201/QAGL-Question-Answer-Generation-from-Lectures-/blob/main/op3.jpg)
 
 ## Problem Statement
 
@@ -107,6 +110,10 @@ validate the answers.
 - MongoDB
 - Azure Cognitive Services
 - BART summarizer and T5 QnA Generation
+
+## Live link
+
+Link: https://bit.ly/qagl-project
 
 ### Contributors
 
